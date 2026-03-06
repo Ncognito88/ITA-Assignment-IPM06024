@@ -1,7 +1,9 @@
 Customer Segmentation and Purchase Prediction
 
 Retail companies want to identify customer groups and predict whether a customer will make a high-value purchase.
+
 Dataset: Online Retail Dataset https://www.kaggle.com/datasets/vijayuv/onlineretail
+
 Tasks:
       • Perform data cleaning and feature engineering (RFM features: Recency, Frequency, Monetary value).
       • Use K-Means clustering to segment customers.
